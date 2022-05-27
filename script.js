@@ -5,7 +5,7 @@ function preload() {
 }
 
 function setup() {
-    createCavas(windowWidth, windowHeight);
+    createCanvas(windowWidth, windowHeight);
 }
 
 function draw() {
